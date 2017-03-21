@@ -1,0 +1,5 @@
+[gerrit]
+host=review.lineageos.org
+port=29418
+project=LineageOS/android_device_samsung_gts210vewifi.git
+defaultbranch=lineage-15.1
