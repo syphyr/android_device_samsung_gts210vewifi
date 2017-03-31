@@ -1136,7 +1136,7 @@
     <!-- Recording Scenario  -->
     <path name="rec-main-mic">
         <path name="main-mic" />
-            <ctl name="IN3 Boost Volume" value="38"/>
+            <ctl name="IN3 Boost Volume" value="47"/>
             <ctl name="STO1 ADC Capture Volume" value="47"/>
     </path>
 
