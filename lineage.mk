@@ -15,5 +15,5 @@ PRODUCT_SKIP_FINGERPRINT_FROM_FILE := true
 # Use the latest approved GMS identifiers
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=gts210vewifixx \
-    BUILD_FINGERPRINT=samsung/gts210vewifixx/gts210vewifi:7.0/NRD90M/T813XXU2BQD3:user/release-keys \
-    PRIVATE_BUILD_DESC="gts210vewifixx-user 7.0 NRD90M T813XXU2BQD3 release-keys"
+    BUILD_FINGERPRINT=samsung/gts210vewifixx/gts210vewifi:7.0/NRD90M/T813XXS2BQG3:user/release-keys \
+    PRIVATE_BUILD_DESC="gts210vewifixx-user 7.0 NRD90M T813XXS2BQG3 release-keys"
