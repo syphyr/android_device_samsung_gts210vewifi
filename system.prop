@@ -16,4 +16,4 @@ ro.sf.hwrotation=270
 ro.radio.noril=yes
 
 # OTA
-lineage.updater.uri=http://192.168.1.5/LineageOS/api
+lineage.updater.uri=http://192.168.1.5/api
