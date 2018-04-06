@@ -16,4 +16,4 @@ ro.sf.hwrotation=270
 ro.radio.noril=yes
 
 # OTA
-cm.updater.uri=http://192.168.1.5/api
+cm.updater.uri=http://192.168.1.5/api/v1/{device}/{type}/{incr}
