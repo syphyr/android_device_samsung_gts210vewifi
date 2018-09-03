@@ -1544,7 +1544,7 @@
 
     <path name="voice-call-forward-mic">
         <path name="main-mic" />
-            <ctl name="IN3 Boost Volume" value="175"/>
+            <ctl name="IN3 Boost Volume" value="16"/>
             <ctl name="STO1 ADC Capture Volume" value="31"/>
     </path>
     <!-- end of call forward Scenario -->
